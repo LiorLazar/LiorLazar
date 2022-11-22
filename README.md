@@ -31,7 +31,7 @@ Bio
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V1Su4L&theme=dracula)](https://github.com/V1Su4L/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V1Su4L&theme=dracula)](https://github.com/V1Su4L)
 
 [![Lior's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@V1Su4L&layout=compact&langs_count=10&theme=dracula)](https://wakatime.com/@V1Su4L)
 
