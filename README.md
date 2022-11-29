@@ -27,6 +27,11 @@ Bio
 
 <br><code><a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50"/></a></code>  <code><a href="https://en.wikipedia.org/wiki/git"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/git.svg" alt="Git" width="50" height="50"/></a></code>
 
+###### Full Stack Kit
+<br><code><a href="https://en.wikipedia.org/wiki/HTML"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="50" height="50"/></a></code>
+<code><a href="https://en.wikipedia.org/wiki/CSS"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="HTML" width="50" height="50"/></a></code>
+<code><a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Javascript_badge.svg" alt="HTML" width="50" height="50"/></a></code>
+
 ---
 
 ## &#x1f4c8; My GitHub Stats
