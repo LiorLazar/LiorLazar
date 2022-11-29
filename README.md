@@ -28,9 +28,9 @@ Bio
 <br><code><a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50"/></a></code>  <code><a href="https://en.wikipedia.org/wiki/git"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/git.svg" alt="Git" width="50" height="50"/></a></code>
 
 ###### Full Stack Kit
-<br><code><a href="https://en.wikipedia.org/wiki/HTML"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="50" height="50"/></a></code>
-<code><a href="https://en.wikipedia.org/wiki/CSS"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="HTML" width="50" height="50"/></a></code>
-<code><a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Javascript_badge.svg" alt="HTML" width="50" height="50"/></a></code>
+<br><code><a href="https://en.wikipedia.org/wiki/HTML"><img src="https://rapidapi.com/blog/wp-content/uploads/2018/06/logo-2582748_640.png" alt="HTML" width="50" height="50"/></a></code>
+<code><a href="https://en.wikipedia.org/wiki/CSS"><img src="https://camo.githubusercontent.com/119b29ca4b9d31cf3969a94eb57fcfbbea0879b493c09c89dc6d4b7fb9e0dc37/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6373732d332e737667" alt="HTML" width="50" height="50"/></a></code>
+<code><a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://res.cloudinary.com/computer-know-how/images/w_1024,h_1024,c_fill/f_auto,q_auto/v1586880081/JavaScript-logo/JavaScript-logo.png?_i=AA" alt="HTML" width="50" height="50"/></a></code>
 
 ---
 
