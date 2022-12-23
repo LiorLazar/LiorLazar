@@ -1,4 +1,4 @@
- # 💫 About Me:
+ # 💫 About Me
 My Name is Lior. I am a Senior Cyber Security & Incident Response Analyst.<br>Student for Computer Science and starting to learn coding.<br>A very motivated and results-driven Student.
 
 #### Welcome to my GitHub Page! 
