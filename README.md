@@ -1,15 +1,12 @@
  # 💫 About Me:
 My Name is Lior. I am a Senior Cyber Security & Incident Response Analyst.<br>Student for Computer Science and starting to learn coding.<br>A very motivated and results-driven Student.
 
-#### Welcome to my GitHub Page! 
- <!-- hope you will enjoy looking around, you are also more than invited to go to my LinkedIn page <a href="https://www.linkedin.com/in/dorz/"><code><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="30" height="30"/></code></a>. -->
- 
 ---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lior-lazar-6a5492200) 
 
-# 💻 Tech Stack:
-###### Languages
+# 💻 Tech Skills:
+###### Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
