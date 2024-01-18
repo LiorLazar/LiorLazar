@@ -22,9 +22,8 @@ My Name is Lior. I am a SecDevOps Engineer Student.
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=V1Su4L&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=V1Su4L&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=V1Su4L&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=V1Su4L&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=V1Su4L&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
