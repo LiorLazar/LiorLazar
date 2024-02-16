@@ -1,5 +1,5 @@
- # 💫 About Me
-My Name is Lior. I am a SecDevOps Engineer Student.
+# 💫 About Me
+A DevSecOps Engineer Student.
 <br>A very motivated and results-driven Student.
 
 ---
@@ -12,7 +12,7 @@ My Name is Lior. I am a SecDevOps Engineer Student.
 ![RedHat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
 
-###### Cloud
+###### Cloud Environment
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ###### Scrippting 
@@ -38,3 +38,4 @@ My Name is Lior. I am a SecDevOps Engineer Student.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 [![](https://visitcount.itsvg.in/api?id=V1Su4L&icon=0&color=0)](https://visitcount.itsvg.in)
+
