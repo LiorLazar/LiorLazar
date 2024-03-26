@@ -27,7 +27,8 @@ A DevSecOps Engineer Student.
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 
-######
+###### CI/CD Pipeline
+![Kubernetes](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ---
 
 # 📊 GitHub Stats:
