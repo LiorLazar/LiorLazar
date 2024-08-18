@@ -34,8 +34,17 @@ I'm Lior, a passionate Fullstack Developer Student.
 <hr />
 
 # 📊 GitHub Stats:
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=V1Su4L&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=V1Su4L&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+*NOTE: Top languages do not indicate my skill level. It's a metric of which languages I have the most
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex=wrap: wrap;">
+    <a href="https://github.com/V1Su4L">
+        <img src="https://github-readme-stats.vercel.app/api?username=V1Su4L&theme=dark&hide_border=true&include_all_commits=false&count_private=false">
+    </a>
+    <a href="https://github.com/V1Su4L">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1Su4L&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
+    </a>
+
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
