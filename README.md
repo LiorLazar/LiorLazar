@@ -4,7 +4,7 @@ I'm Lior, a passionate Fullstack Developer Student.
 
 # 🧰 Toolbox
 ###### <ins>Programming Languages</ins>
- <code><img src="https://raw.github.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> </code>
+ <code><img src="https://raw.github.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> </code> - <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"> Python </a> - For Creating Automations and Integrations on Cortex XSOAR Environment for Security Products.
 
 <!-- ###### Operation Systems
 <code>![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)</code>
