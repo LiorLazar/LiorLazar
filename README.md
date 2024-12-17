@@ -10,7 +10,7 @@ I'm Lior, a passionate Full Stack Developer Student.
 
 
 #### <ins>FullStack Technologies</ins>
-
+Will Be Added
 
 ### 📁 Featured Projects
 Will Be Added
