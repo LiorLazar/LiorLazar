@@ -1,39 +1,23 @@
 # 💫 About Me
-I'm Lior, a passionate Fullstack Developer Student.
-<br /> Has creative problem-solving, in addition with knowledge on DevOps Skills and Has Security Orientation.
+I'm Lior, a passionate Full Stack Developer Student.
+<br /> Has creative problem-solving skills whom looking to find the next challenge.
+<br />  Feel free to connect with me on my [LinkedIn](https://www.linkedin.com/in/lior-lazar/) page <code><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="30" height="30"/></code>.
 
-# 🧰 Toolbox
-###### <ins>Programming Languages</ins>
- <code><img src="https://raw.github.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> </code> - <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"> Python </a> - For Creating Automations and Integrations on Cortex XSOAR Environment for Security Products.
+---
+### <ins>🧰 Toolbox</ins>
+#### <ins>Programming Languages</ins>
+ <code><img src="https://raw.github.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> </code> - <a href="https://en.wikipedia.org/wiki/JavaScript"> JavaScript </a> -  For creating interactive front-end experiences.
 
-<!-- ###### Operation Systems
-<code>![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)</code>
-![RedHat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white) -->
 
-<!-- ###### Cloud Environment
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) -->
+#### <ins>FullStack Technologies</ins>
 
-<!-- ###### Scrippting 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) -->
 
-<!-- ###### Terminal and Repository Management
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) -->
+### 📁 Featured Projects
+Will Be Added
 
-<!-- ###### Virtualization & Containers
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white) -->
-
-<!-- ###### CI/CD Pipeline
-![Kubernetes](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white) -->
 ---
 
-###### Full Stack Technilogies
-<hr />
-
-# 📊 GitHub Stats:
+### &#x1f4c8; My GitHub Stats
 *NOTE: Top languages do not indicate my skill level. It's a metric of which languages I have the most
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex=wrap: wrap;">
