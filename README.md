@@ -21,17 +21,16 @@ Will Be Added
 *NOTE: Top languages do not indicate my skill level. It's a metric of which languages I have the most
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex=wrap: wrap;">
-    <a href="https://github.com/V1Su4L">
+    <a href="https://github.com/LiorLazar">
         <img src="https://github-readme-stats.vercel.app/api?username=LiorLazar&theme=dark&hide_border=true&include_all_commits=false&count_private=false">
     </a>
-    <a href="https://github.com/V1Su4L">
+    <a href="https://github.com/LiorLazar">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiorLazar&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
     </a>
-
 </div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![](https://visitcount.itsvg.in/api?id=V1Su4L&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=LiorLazar&icon=0&color=0)](https://visitcount.itsvg.in)
 
