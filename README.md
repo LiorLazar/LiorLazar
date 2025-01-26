@@ -22,10 +22,10 @@ Will Be Added
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex=wrap: wrap;">
     <a href="https://github.com/V1Su4L">
-        <img src="https://github-readme-stats.vercel.app/api?username=V1Su4L&theme=dark&hide_border=true&include_all_commits=false&count_private=false">
+        <img src="https://github-readme-stats.vercel.app/api?username=LiorLazar&theme=dark&hide_border=true&include_all_commits=false&count_private=false">
     </a>
     <a href="https://github.com/V1Su4L">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1Su4L&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiorLazar&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
     </a>
 
 </div>
