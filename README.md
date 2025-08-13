@@ -25,6 +25,8 @@ I'm **Lior**, a passionate **Full Stack Developer Student** with creative proble
 #### <ins>Frontend Technologies</ins>
 <code><img src="https://raw.github.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/> </code> - <a href="https://reactjs.org/"> React </a> - Building dynamic user interfaces.
 <br/>
+<code><img src="https://raw.github.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50"/> </code> - <a href="https://redux.js.org/"> Redux </a> - Predictable state container for JavaScript apps.
+<br/>
 <!-- <code><img src="https://raw.github.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/> </code> - <a href="https://getbootstrap.com/"> Bootstrap </a> - Rapid UI development. -->
 
 #### <ins>Backend Technologies</ins>
@@ -39,11 +41,13 @@ I'm **Lior**, a passionate **Full Stack Developer Student** with creative proble
 <br/>
 <code><img src="https://raw.github.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/> </code> - <a href="https://code.visualstudio.com/"> VS Code </a> - My preferred development environment.
 
-### 🌱 Currently Learning
-- Advanced React patterns and state management
-- RESTful API design and development
-- Database optimization techniques
-- Modern deployment practices
+### 🌱 Currently Learning & Exploring
+- 🔄 **Advanced React Patterns:** Custom hooks, compound components, render props
+- 🏪 **State Management:** Redux Toolkit, Redux middleware, and complex state architectures
+- 🎯 **Backend Mastery:** Building scalable APIs with Express.js and middleware design
+- 📊 **Database Design:** MongoDB aggregation pipelines and indexing strategies  
+- ☁️ **Cloud Deployment:** Docker containerization and AWS/Vercel deployment workflows
+- 🧪 **Testing:** Unit testing with Jest and E2E testing with Cypress
 
 ### 📁 Featured Projects
 
