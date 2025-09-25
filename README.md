@@ -27,6 +27,8 @@ I'm **Lior**, a passionate **Full Stack Developer Student** with creative proble
 <br/>
 <code><img src="https://raw.github.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50"/> </code> - <a href="https://redux.js.org/"> Redux </a> - Predictable state container for JavaScript apps.
 <br/>
+<code><img src="https://raw.github.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="50" height="50"/> </code> - <a href="https://vitejs.dev/"> Vite </a> - Next generation frontend tooling for fast development.
+<br/>
 <!-- <code><img src="https://raw.github.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/> </code> - <a href="https://getbootstrap.com/"> Bootstrap </a> - Rapid UI development. -->
 
 #### <ins>Backend Technologies</ins>
@@ -35,7 +37,7 @@ I'm **Lior**, a passionate **Full Stack Developer Student** with creative proble
 <code><img src="https://raw.github.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50" height="50"/> </code> - <a href="https://expressjs.com/"> Express.js </a> - Fast web framework for Node.js.
 
 #### <ins>Databases & Tools</ins>
-<!-- <code><img src="https://raw.github.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/> </code> - <a href="https://www.mongodb.com/"> MongoDB </a> - NoSQL database for modern applications. -->
+<code><img src="https://raw.github.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/> </code> - <a href="https://www.mongodb.com/"> MongoDB </a> - NoSQL database for modern applications.
 <br/>
 <code><img src="https://raw.github.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/> </code> - <a href="https://git-scm.com/"> Git </a> - Version control and collaboration.
 <br/>
