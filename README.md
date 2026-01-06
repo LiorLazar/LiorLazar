@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=820&lines=Hi,+I'm+Lior+Lazar+👋;Independent+Full-Stack+Developer;Security+Automation+Background;Founder+of+PrimeDev" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=820&lines=Hi,+I'm+Lior+Lazar+%F0%9F%91%8B;Independent+Full-Stack+Developer;Security+Automation+Background;Founder+of+PrimeDev&v=1" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
