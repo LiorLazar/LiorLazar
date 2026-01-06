@@ -26,7 +26,7 @@ I think in **failure scenarios**, **monitoring**, and **operational clarity** fr
 ---
 
 ### 🚀 Founder of PrimeDev
-I lead development at [**PrimeDev**](https://github.com/PrimeDev-IL).
+I lead development at [**PrimeDev Solutions**](https://github.com/PrimeDev-IL).
 We specialize in building secure, scalable web infrastructure for businesses.
 *(Check out the organization profile for our business portfolio)*.
 
